@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Rahi Bulbul",
+        "username": "admin",
+        "password": "123456",
+        "email": "rahibulbul@outlook.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "Test",
+        "username": "Test",
+        "password": "123456",
+        "email": "test@gmail.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "KAZI AHASANUL KARIM",
+        "username": "Admin",
+        "password": "356553",
+        "email": "mkazi1922@gmail.com ",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "Test",
+        "username": "Test",
+        "password": "123456",
+        "email": "test@gmail.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "fuad",
+        "username": "delivery",
+        "password": "1234",
+        "email": "fachand26@gmail.om",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "fuad",
+        "username": "fuad",
+        "password": "1234",
+        "email": "fachand26@gmail.om",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "Freak",
+        "username": "freak",
+        "password": "1234",
+        "email": "fachand26@gmail.com",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "Freak",
+        "username": "freak",
+        "password": "1234",
+        "email": "fachand26@gmail.om",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "fuad",
+        "username": "freak",
+        "password": "1234",
+        "email": "fachand26@gmail.om",
+        "gender": "Male",
+        "birthday": null
+    },
+    {
+        "name": "fuad",
+        "username": "fuad",
+        "password": "1234",
+        "email": "fachand26@gmail.om",
+        "gender": "Male",
+        "birthday": null
+    }
+]
